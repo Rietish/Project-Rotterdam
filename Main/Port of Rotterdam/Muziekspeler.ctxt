@@ -1,7 +1,7 @@
 #BlueJ class context
 comment0.params=
 comment0.target=Muziekspeler()
-comment0.text=\r\n\ Constructor\ for\ objects\ of\ class\ Muziekspeler\r\n
+comment0.text=\n\ Constructor\ for\ objects\ of\ class\ Muziekspeler\n
 comment1.params=nummer
 comment1.target=void\ playSound(int)
 comment2.params=gaan
