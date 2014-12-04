@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=
+comment0.target=void\ act()
+comment1.params=
+comment1.target=ScoreSleepboot()
+comment2.params=deScore\ distanceCount
+comment2.target=void\ setSleepbootScore(java.lang.String,\ int)
+comment3.params=vrachtOverslaanScore
+comment3.target=void\ setScore(java.lang.String)
+comment4.params=
+comment4.target=int\ getSleepbootScore()
+numComments=5

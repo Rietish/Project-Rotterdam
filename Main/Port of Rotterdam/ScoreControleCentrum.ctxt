@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=
+comment0.target=void\ act()
+comment1.params=
+comment1.target=ScoreControleCentrum()
+comment2.params=deScore
+comment2.target=void\ setControleCentrumScore(java.lang.String)
+comment3.params=vrachtOverslaanScore
+comment3.target=void\ setScore(java.lang.String)
+numComments=4

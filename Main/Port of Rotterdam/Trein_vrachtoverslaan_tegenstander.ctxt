@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=
+comment0.target=void\ act()
+comment1.params=
+comment1.target=void\ gaRijden()
+comment2.params=
+comment2.target=boolean\ isAanHetRijden()
+comment3.params=
+comment3.target=boolean\ isInStation()
+comment4.params=
+comment4.target=void\ move()
+comment5.params=
+comment5.target=void\ place()
+numComments=6

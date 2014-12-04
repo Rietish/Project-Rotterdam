@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=ID
+comment0.target=Haven(int)
+comment1.params=
+comment1.target=void\ act()
+comment2.params=
+comment2.target=int\ getID()
+comment3.params=a
+comment3.target=void\ setBootInHaven(boolean)
+comment4.params=
+comment4.target=boolean\ isBootInHaven()
+numComments=5

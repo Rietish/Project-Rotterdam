@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=
+comment0.target=void\ act()
+comment1.params=
+comment1.target=void\ moven()
+comment2.params=start
+comment2.target=void\ setGo(boolean)
+numComments=3

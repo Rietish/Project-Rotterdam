@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=
+comment0.target=void\ act()
+comment1.params=boot\ verschil
+comment1.target=void\ setSpawnChance(int,\ int)
+comment2.params=boot
+comment2.target=int\ getSpawnChance(int)
+comment3.params=tijdTussenBoot1\ tijdTussenBoot2\ tijdTussenBoot3
+comment3.target=void\ setDifficulty(int,\ int,\ int)
+comment4.params=
+comment4.target=void\ wordtMoeilijker()
+numComments=5

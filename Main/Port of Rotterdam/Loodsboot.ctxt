@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.params=x\ y
+comment0.target=Loodsboot(double,\ double)
+comment1.params=
+comment1.target=void\ act()
+comment2.params=
+comment2.target=void\ sturen()
+comment3.params=sneller
+comment3.target=void\ setSpeedboost(boolean)
+comment4.params=
+comment4.target=void\ boost()
+comment5.params=
+comment5.target=void\ immune()
+comment6.params=statement
+comment6.target=void\ setKwetsbaar(boolean)
+comment7.params=
+comment7.target=boolean\ getKwetsbaar()
+numComments=8

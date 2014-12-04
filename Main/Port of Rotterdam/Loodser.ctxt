@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=x\ y\ id
+comment0.target=Loodser(int,\ int,\ int)
+comment1.params=
+comment1.target=void\ act()
+comment2.params=x\ y
+comment2.target=void\ setPosition(int,\ int)
+comment3.params=
+comment3.target=boolean\ havenIsVrij()
+numComments=4

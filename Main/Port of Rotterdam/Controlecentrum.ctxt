@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Controlecentrum()
+comment1.params=
+comment1.target=void\ objects()
+comment2.params=
+comment2.target=void\ fill()
+comment2.text=maakt\ controlehaven
+comment3.params=
+comment3.target=void\ startMenu()
+comment4.params=
+comment4.target=void\ makkelijk()
+comment5.params=
+comment5.target=void\ normaal()
+comment6.params=
+comment6.target=void\ moeilijk()
+comment7.params=
+comment7.target=void\ start()
+comment8.params=
+comment8.target=void\ remove()
+comment9.params=
+comment9.target=void\ taskbar()
+numComments=10

@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=
+comment0.target=void\ act()
+comment1.params=
+comment1.target=HealthBar()
+comment2.params=input
+comment2.target=void\ setDifficulty(int)
+comment3.params=getal
+comment3.target=void\ setLevens(int)
+numComments=4

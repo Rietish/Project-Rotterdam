@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=x\ y
+comment0.target=Vrachtschip(double,\ double)
+comment1.params=
+comment1.target=void\ act()
+comment2.params=
+comment2.target=void\ beweegRichtingSleepboot()
+comment3.params=snelheid
+comment3.target=void\ setVaarSnelheid(double)
+comment4.params=statement
+comment4.target=void\ setKwetsbaar(boolean)
+comment5.params=
+comment5.target=boolean\ getKwetsbaar()
+numComments=6

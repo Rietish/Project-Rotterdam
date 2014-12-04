@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=
+comment0.target=void\ writeHighscore()
+comment1.params=input
+comment1.target=void\ setTekst(java.lang.String)
+comment2.params=
+comment2.target=void\ readHighscore()
+comment3.params=
+comment3.target=java.lang.String\ readTekst()
+numComments=4

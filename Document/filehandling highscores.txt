@@ -1,0 +1,20 @@
+//HET TEXT FILE DEFAULTS//
+score: geen score
+minuten:99
+seconden:99
+//-----------------------------------------//
+
+//checks in de trein//
+is scorelabel minuten <= minuten in bestand
+	als minuten == minuten in bestand
+		is scorelabel seconden < seconden in bestand?
+		writeBestand(scorelabelscore);
+	END ALS
+	writeBesntand(scorelabelscore)
+END ALS
+
+//----------------------------//
+
+//highscore menu//
+leest opgeslagen highscore in bestand
+//-------------------// 

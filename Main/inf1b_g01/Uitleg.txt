@@ -1,0 +1,12 @@
+Dit spel is gemaakt voor de Port of Rotterdam. Het bevat 3 minigames:
+
+-Vracht overslaan:
+	Kruip in de huid van een kraanmachinist en los zo snel mogelijk een schip.
+
+-Controle centrum:
+	Zorg ervoor dat schepen veilig de haven inkomen, kunnen lossen en weer weg kunnen gaan. Doe dit door vanuit het controle centrum de schepen loodsen toe te wijzen.
+	
+-Sleepboot:
+	Sleep een schip de haven in maar pas op voor de vele obstakels die je tegenkomt. Om je hierbij te helpen kun je gebruik maken van diverse powerups.
+	
+Deze 3 spellen vormen samen 1 groot spel waarin je je eigen highscore kunt verbeteren en kunt proberen het spel 100% te volbrengen.

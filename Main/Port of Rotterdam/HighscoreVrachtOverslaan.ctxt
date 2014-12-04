@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=
+comment0.target=HighscoreVrachtOverslaan()
+comment1.params=vrachtOverslaanScore
+comment1.target=void\ setScore(java.lang.String)
+comment2.params=
+comment2.target=int\ getMinuten()
+comment3.params=
+comment3.target=int\ getSeconden()
+numComments=4

@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=
+comment0.target=void\ act()
+comment1.params=
+comment1.target=Distance()
+comment2.params=distance
+comment2.target=void\ setScore(java.lang.String)
+comment3.params=
+comment3.target=void\ scoreReset()
+comment4.params=
+comment4.target=void\ checkYourself()
+numComments=5

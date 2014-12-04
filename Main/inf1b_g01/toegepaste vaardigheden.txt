@@ -1,0 +1,9 @@
+polymorphisme is toegepast bij bijvoorbeeld class "Powerups" en bijbehorende subclasses aangezien powerups allemaal checken of ze worden opgepakt maar daarna een andere actie hebben.
+Tevens is het toegepast bij de class "controleBoot" en zijn subclasses aangezien elke alle 3 de subclasses een controleBoot zijn maar toch individueel van elkaar verschillen.
+
+Een constructor met argumenten is bijvoorbeeld toegepast bij de class "Loodsboot".
+
+Static functies zijn bijvoorbeeld bij de class "Distance" gebruikt en method overriding bij de powerups
+
+
+
